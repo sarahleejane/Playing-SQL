@@ -1,4 +1,5 @@
 #Playing with SQL
+A collection of complex queries to enable keyword searches and matrix multiplication.
 
 ##File Run Down
 1. Basic sql query (basic.sql)
